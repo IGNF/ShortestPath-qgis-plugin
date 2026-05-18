@@ -5,7 +5,7 @@
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="2"><img src="docs/media/image2.jpeg"
+<td rowspan="2"><img src="images/image2.jpeg"
 style="width:1.38681in;height:1.47153in"
 alt="logo_IGN_pour_lettre" /></td>
 <td style="text-align: center;"><p><strong>Manuel utilisateur du plugin
@@ -42,14 +42,14 @@ Chemin le plus court</strong></p>
   cliquez sur Installer depuis un ZIP, sélectionner le fichier ZIP puis
   cliquez sur Installer le plugin.
 
-> <img src="docs/media/image3.png"
+> <img src="images/image3.png"
 > style="width:5.21279in;height:1.1624in" />
 
 - Installation via l’installateur (\*\_PluginIGN_Installer)
 
 # Présentation
 
-<img src="docs/media/image4.png"
+<img src="images/image4.png"
 style="width:2.95833in;height:0.41667in" />
 
 Quand le plugin est installé et sélectionné dans le plugin maitre il
@@ -70,10 +70,10 @@ IGN de la barre de menus.
 > <span class="mark">IMPORTANT</span> : le tronçon de départ et le
 > tronçon d’arrivée doivent être visibles à l’écran.
 >
-> <img src="docs/media/image5.png"
+> <img src="images/image5.png"
 > style="width:3.56828in;height:0.89596in" />
 >
-> <img src="docs/media/image6.png"
+> <img src="images/image6.png"
 > style="width:2.47612in;height:1.43091in" />
-> <img src="docs/media/image7.png"
+> <img src="images/image7.png"
 > style="width:2.67627in;height:1.41559in" />
