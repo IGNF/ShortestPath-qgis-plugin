@@ -27,7 +27,7 @@ alt="logo_IGN_pour_lettre" /></td>
 - [5. Utilisation](#utilisation)
 
 <div  style="background-color: #00ADC5; border: 1px solid black; padding: 5px; text-align: justify;margin-bottom:10px;">
-  <h2 id="1-resume" style="color: white;margin:0;" >1. Résumé</h2>
+  <h2 id="resume" style="color: white;margin:0;" >1. Résumé</h2>
 </div>
 
 - Le plugin Chemin le plus court sélectionne tous les tronçons contigus
@@ -44,7 +44,7 @@ alt="logo_IGN_pour_lettre" /></td>
 - Ce plugin est compatible QGIS3 et QGIS4
 
 <div  style="background-color: #00ADC5; border: 1px solid black; padding: 5px; text-align: justify;margin-bottom:10px;">
-  <h2 id="1-prerequis" style="color: white;margin:0;" >2. Prérequis</h2>
+  <h2 id="prerequis" style="color: white;margin:0;" >2. Prérequis</h2>
 </div>
 
 - Version de QGIS : 3.28 ou supérieur (y compris QGIS4)
