@@ -1,5 +1,3 @@
-from qgis.PyQt.QtWidgets import QMessageBox
-from qgis.PyQt.QtCore import Qt
 
 from .mapping_version import *
 
