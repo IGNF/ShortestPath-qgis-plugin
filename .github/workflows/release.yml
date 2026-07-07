@@ -27,12 +27,12 @@ jobs:
 
       - name: Build plugin zip
         run: |
-          mkdir -p IGN_chemin_le_plus_court
-          rsync -av --progress . IGN_chemin_le_plus_court/ \
+          mkdir -p IGN_ShortestPath
+          rsync -av --progress . IGN_ShortestPath/ \
             --exclude .git \
             --exclude .github \
-            --exclude IGN_chemin_le_plus_court
-          zip -r IGN_chemin_le_plus_court.zip IGN_chemin_le_plus_court
+            --exclude IGN_ShortestPath
+          zip -r IGN_ShortestPath.zip IGN_ShortestPath
 
       - name: Create Release
         uses: softprops/action-gh-release@v1
