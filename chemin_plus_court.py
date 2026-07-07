@@ -21,7 +21,6 @@
  *                                                                         *
  ***************************************************************************/
 """
-from qgis.PyQt.QtWidgets import QMessageBox
 from qgis.core import QgsWkbTypes
 from .algocheminpluscourt import *
 
