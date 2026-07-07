@@ -8,7 +8,7 @@
 <td rowspan="2"><img src="images/image2.jpeg"
 style="width:1.38681in;height:1.47153in"
 alt="logo_IGN_pour_lettre" /></td>
-<td style="text-align: center;font-size: 32px;"><strong>Plugin "Chemin le plus court" v1.3.0</strong></td>
+<td style="text-align: center;font-size: 32px;"><strong>Plugin "ShortestPath" v1.4.0</strong></td>
 </tr>
 <tr>
 <td style="font-size: 16px;text-align: center;">Développeur  : Gérôme PECHEUR (IGN)</td>
@@ -30,7 +30,7 @@ alt="logo_IGN_pour_lettre" /></td>
   <h2 id="resume" style="color: white;margin:0;" >1. Résumé</h2>
 </div>
 
-- Le plugin Chemin le plus court sélectionne tous les tronçons contigus
+- Le plugin ShortestPath sélectionne tous les tronçons contigus
   entre 2 tronçons sélectionnés.
 
 - L’itinéraire suivi par cette sélection est le plus court chemin entre
@@ -77,7 +77,7 @@ Ensuite il faut executer le plugin maitre afin d'integrer ce plugin dans le menu
 Exemple de barre d'outils configurée avec le plugin maitre :
 <img src="images/image4.png" style="width:2.95833in;height:0.41667in" />
 
-Le plugin Chemin le plus court est représenté par l’icône suivante : <img src="images/image8.png"/>
+Le plugin ShortestPath est représenté par l’icône suivante : <img src="images/image8.png"/>
 
 <div  style="background-color: #00ADC5; border: 1px solid black; padding: 5px; text-align: justify;margin-bottom:10px;">
   <h2 id="utilisation" style="color: white;margin:0;" >5. Utilisation</h2>

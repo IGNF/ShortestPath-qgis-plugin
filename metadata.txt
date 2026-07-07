@@ -3,19 +3,19 @@
 # This file should be included when you package your plugin.# Mandatory items:
 
 [general]
-name=IGN Chemin_plus_court
+name=ShortestPath
 qgisMinimumVersion=3.0
 qgisMaximumVersion=4.99
-description=Sélection du chemin le plus court entre 2 linéaires
-version=1.3.0
+description=Route selection based on the 'shortest path' algorithm
+version=1.4.0
 author=Gérôme PECHEUR (IGN)
 email=gerome.pecheur@ign.fr
 
-about=Sélection d'itinéraire suivant l'algorithme du "chemin le plus court"
+about=Route selection based on the 'shortest path' algorithm
 
-homepage=https://ignf.github.io/chemin-le-plus-court-qgis-plugin/
-tracker=https://github.com/IGNF/chemin-le-plus-court-qgis-plugin/issues
-repository=https://github.com/IGNF/chemin-le-plus-court-qgis-plugin
+https://ignf.github.io/ShortestPath-qgis-plugin/
+tracker=https://github.com/IGNF/ShortestPath-qgis-plugin/issues
+repository=https://github.com/IGNF/ShortestPath-qgis-plugin
 # End of mandatory metadata
 
 # Recommended items:

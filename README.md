@@ -1,4 +1,4 @@
-# chemin-le-plus-court-plugin-qgis
+# ShortestPath-plugin-qgis
 This python plugin allows to select the linear objects forming the shortest path between two selected linear objects. 
 
 ## Pré-requis
@@ -18,11 +18,11 @@ English :
 
 - Mainteneur principal : gerome.pecheur@ign.fr
 - Organisation : [IGNF](https://github.com/IGNF)
-- Issues GitHub : https://github.com/IGNF/chemin-le-plus-court-qgis-plugin/issues
+- Issues GitHub : https://github.com/IGNF/ShortestPath-qgis-plugin/issues
 
 ## Ressources
 
-Documentation : https://ignf.github.io/chemin-le-plus-court-qgis-plugin/
+Documentation : https://ignf.github.io/ShortestPath-qgis-plugin/
 
 ## Licence
 
