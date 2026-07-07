@@ -37,6 +37,6 @@ jobs:
       - name: Create Release
         uses: softprops/action-gh-release@v1
         with:
-          files: "IGN_chemin_le_plus_court.zip"
+          files: "IGN_ShortestPath.zip"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
